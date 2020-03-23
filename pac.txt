@@ -11,4 +11,6 @@ anaconda.org,
 live.com,
 microsoftonline,
 office.net,
-azure.com
+azure.com,
+akamaihd.net,
+msocdn.com
