@@ -1,5 +1,4 @@
 githubusercontent.com,
-githubusercontent.com,
 githubapp.com,
 github.com,
 githubassets.com,
@@ -12,5 +11,14 @@ live.com,
 microsoftonline,
 office.net,
 azure.com,
-akamaihd.net,
 msocdn.com
+googleapis.com
+githubassets.com
+office.com
+office365.com
+microsoft.com
+github.com
+live.com
+sauth.net
+amazonaws.com
+stackoverflow.com
